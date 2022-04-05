@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
-        startPosition = transform.position;
+        startPosition = transform.position;     
     }
 
     // Update is called once per frame
